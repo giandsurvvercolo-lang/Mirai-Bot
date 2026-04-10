@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "MIRAI-BOT-LOVER-BY-WILLY",
-    "PREFIX": "/",
+    "BOTNAME": "Mirai-Yuto",
+    "PREFIX": "-",
     "ADMINBOT": [
-        "100094688857930"
+        "61561982970881"
     ],
     "NDH": [
-        "100094688857930"
+        "61561982970881"
     ],
     "DATABASE": {
         "sqlite": {
